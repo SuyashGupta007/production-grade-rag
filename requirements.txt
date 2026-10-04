@@ -1,0 +1,36 @@
+# # ==============================
+# # UI
+# # ==============================
+# gradio==5.49.1 # for ui in python
+
+
+# # ==============================
+# # AWS
+# # ==============================
+# boto3==1.40.59 # Purpose: Python SDK for AWS. In your project, it can communicate with AWS services such as:
+
+
+# # ==============================
+# # Environment Variables
+# # ==============================
+# python-dotenv==1.0.1 # for environment variables
+
+
+# # ==============================
+# # LlamaIndex
+# # ==============================
+# llama-index==0.12.52 # Purpose: This is the main RAG framework.
+
+# # Google Gemini / Google GenAI integration
+# llama-index-llms-google-genai # for google gemini
+
+# # AWS Bedrock Knowledge Base Retriever
+# llama-index-retrievers-bedrock==0.3.0 # Purpose: Connects LlamaIndex with Amazon Bedrock Knowledge Bases.
+
+gradio==5.49.1
+boto3==1.40.59
+python-dotenv==1.0.1
+
+llama-index==0.12.52
+llama-index-llms-google-genai
+llama-index-retrievers-bedrock==0.3.0
